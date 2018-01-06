@@ -17,3 +17,6 @@ Some deployment
 ## How to contribute
 
 How to contribute text
+
+### Copyright
+2017 me
